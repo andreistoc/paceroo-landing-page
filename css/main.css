@@ -811,7 +811,7 @@ button:focus {
 }
 
 #download .download-wrapper {
-  padding: 0px 30px;
+  padding: 0px 30px 80px;
 }
 
 #download .download-wrapper .download-text h4 {
@@ -1482,7 +1482,7 @@ button:focus {
 .form-control {
   width: 100%;
   margin-bottom: 30px;
-  padding: 15px 30px;
+  padding: 30px 30px;
   font-size: 14px;
   border-radius: 30px;
   text-align: center;
@@ -1530,6 +1530,7 @@ textarea {
 
 #contact {
   background: #ffffff;
+  padding-top: 80px;
   padding-bottom: 80px;
   position: relative;
   text-align: center;
